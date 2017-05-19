@@ -1,0 +1,5 @@
+{
+    "connectionString": "mongodb://localhost:27017/mean-angular4-registration-login",
+    "apiUrl": "http://localhost:4800",
+    "secret": "secretforangular4authenticationproject"
+}
